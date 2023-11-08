@@ -1,10 +1,9 @@
 <h1 align="center">嗨👋，我是河豚</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chendx97&label=Profile% 20views&color=0e75b6&style=flat" alt="chendx97" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chendx97&label=Profile%20views&color=0e75b6&style=flat" alt="chendx97" /> </p>
 
 <h3 align="left">联系我：</h3>
   
 - 🌱 博客：[思否](https://segmentfault.com/u/puffer) | [掘金](https://juejin.cn/user/638161460403287)
-- 💬 微信：hetun_learn
 - 👯 爱好：吃、运动~
 
 <h3 align="left">语言和工具：</h3>
