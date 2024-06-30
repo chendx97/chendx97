@@ -3,7 +3,7 @@
 
 <h3 align="left">联系我：</h3>
   
-- 🌱 博客：[思否](https://segmentfault.com/u/puffer) | [掘金](https://juejin.cn/user/638161460403287)
+- 🌱 博客：[掘金](https://juejin.cn/user/638161460403287) | [博客](https://chendx97.github.io/blog/) | [思否](https://segmentfault.com/u/puffer)
 - 👯 爱好：吃、运动~
 
 <h3 align="left">语言和工具：</h3>
